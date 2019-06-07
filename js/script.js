@@ -47,7 +47,7 @@ function setup() {
     bullets = new Array();
     enemies = new Array;
 
-    enemySpawn = setInterval(function() {enemies.push(new Enemy(3))}, 900);
+    enemySpawn = setInterval(function() {enemies.push(new Enemy(3))}, 645);
 
 
     frameRate(framRte);
