@@ -1,0 +1,12 @@
+#inner {
+    margin: 0 auto;
+    display: table;
+  }
+
+  .bg { 
+    /* The image used */
+    background-image: url("9aa.png");
+    background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  }
