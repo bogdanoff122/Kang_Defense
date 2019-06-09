@@ -89,7 +89,7 @@ function Enemy(speed) {
                 location.reload();
                 }
                 else {
-                    window.location.replace("https://www.youtube.com/watch?v=f2JDto0KSr0");
+                    window.location.replace("https://youtu.be/f2JDto0KSr0?t=12");
                 }
 
                
