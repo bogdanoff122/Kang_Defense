@@ -110,7 +110,7 @@ function eventHandler(){
         if (!player.delayedshoot) {
         bullets.push(new Bullet(player.x, player.y, mouseX, mouseY, 5));
         player.delayedshoot = true;
-        setTimeout(function() {player.delayedshoot = false;}, 90);
+        setTimeout(function() {player.delayedshoot = false;}, 225);
     }
     }
 }
